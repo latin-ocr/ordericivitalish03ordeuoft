@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ordericivitalish03ordeuoft/ordericivitalish03ordeuoft_0011.png"; bbox 0 0 2033 3445; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 397 1032 1145 1091">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 397 1032 1145 1091">
+     <span class='ocr_line' id='line_1_1' title="bbox 397 1032 1145 1091; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 397 1032 777 1091; x_wconf 87' lang='lat' dir='ltr'>ORDERICI</span> <span class='ocrx_word' id='word_1_2' title='bbox 825 1034 1145 1090; x_wconf 86' lang='lat' dir='ltr'><strong>VITALIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 72 1208 1466 1291">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 72 1208 1466 1291">
+     <span class='ocr_line' id='line_1_2' title="bbox 72 1208 1466 1291; baseline 0.002 -4"><span class='ocrx_word' id='word_1_3' title='bbox 72 1208 888 1291; x_wconf 84' lang='lat' dir='ltr'><strong>ECCLESIASTICAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 952 1208 1466 1290; x_wconf 80' lang='lat' dir='ltr'><strong>HISTORIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 488 1402 1044 1444">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 488 1402 1044 1444">
+     <span class='ocr_line' id='line_1_3' title="bbox 488 1402 1044 1444; baseline -0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 488 1403 655 1444; x_wconf 84' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_6' title='bbox 697 1402 1044 1444; x_wconf 79' lang='lat' dir='ltr'><strong>TREDECIM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
